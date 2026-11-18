@@ -1,4 +1,3 @@
-PROGRAM 
 #include <stdio.h> 
 int square(int n); 
 int factorial(int n); 
